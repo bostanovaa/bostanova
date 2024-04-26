@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\MNXVRA\bos1612\bin\Debug\bos1612.exe.config
+C:\Users\user\Desktop\MNXVRA\bos1612\bin\Debug\bos1612.exe
+C:\Users\user\Desktop\MNXVRA\bos1612\bin\Debug\bos1612.pdb
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\bos1612.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\bos1612.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\App.g.cs
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\bos1612_MarkupCompile.cache
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\bos1612_MarkupCompile.lref
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\bos1612.g.resources
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\bos1612.Properties.Resources.resources
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\bos1612.csproj.GenerateResource.cache
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\bos1612.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\bos1612.exe
+C:\Users\user\Desktop\MNXVRA\bos1612\obj\Debug\bos1612.pdb
